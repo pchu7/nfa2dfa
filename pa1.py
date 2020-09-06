@@ -1,9 +1,7 @@
 #!/usr/bin/python
 # Phillip Chu
-# Programming Assignment 1 - nfa2dfa converter
-# COSC 461 - Compilers Fall 2020
+# nfa2dfa converter
 # September 1st, 2020
-# Dr. Michael Jantz
 
 import sys
 import copy
